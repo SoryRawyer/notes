@@ -1,0 +1,1 @@
+# notes — technical topics, book reviews, things of that nature
