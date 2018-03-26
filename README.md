@@ -1,1 +1,1 @@
-# notes — technical topics, book reviews, things of that nature
+# words — technical topics, book reviews, essays, things of that nature
